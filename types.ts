@@ -1,3 +1,4 @@
+Stripe Types
 import Stripe from 'stripe';
 
 export interface Song {
